@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title> Personal Portfolio | Portfolio </title>
+<style>
+
+<!-- /* Header */ -->
+	
+	.header
+	{background-color: #db537b;
+	 padding: 5px;
+	 color: white;
+	 }
+	 
+	<!-- /* nav bar */ -->
+	
+	a.more:link
+	{background-color: rgba(219, 83, 123, 0.8); 
+	color: white; 
+	padding: 15px 40px;  
+	font-weight:bold;
+	text-decoration: none;
+	font-family: Helvetica;
+	}
+	
+	a.more:visited
+	{color: white;
+	}
+	
+	a.more:hover
+	{color: #000000;
+	 text-decoration:underline wavy;}
+	 
+    <!-- /* RTPM FB Page */ -->
+	
+	a.oneforu:link
+	{position: relative;
+	 left: 390px;
+	 bottom: 46px; 
+	 padding: 2px;
+	 color: rgba(219, 83, 123, 0.8);
+	 text-decoration: none;}
+	
+	a.oneforu:visited
+	{color: #000000;
+	}
+	
+	a.oneforu:hover
+	{background-color: rgba(219, 83, 123, 0.8);
+	 color: white;
+	}
+	
+<!-- /* Activities */ -->
+
+.container {
+  display:inline-block;
+  position: relative;
+  width: 32%;
+  margin-bottom: 10px;
+}
+
+.container2 {
+  display: inline-block;
+  position: relative;
+  width: 32%;
+  margin-left: 15px;
+  margin-bottom: 10px;
+}
+
+.container3 {
+  display: inline-block;
+  position: relative;
+  width: 32%;
+  margin-top: 10px;
+}
+
+.container4 {
+  display: inline-block;
+  position: relative;
+  width: 32%;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.container5 {
+  display: inline-block;
+  position: relative;
+  width: 32%;
+  margin-top: 20px;
+}
+
+.container6 {
+  display: inline-block;
+  position: relative;
+  width: 32%;
+  margin-left: 15px;
+  margin-top: 20px;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(227, 118, 150, 0.9);
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: .5s ease;
+}
+
+.container:hover .overlay {
+  width: 100%;
+}
+
+.container2:hover .overlay {
+  width: 100%;
+}
+
+.container3:hover .overlay {
+  width: 100%;
+}
+
+.container4:hover .overlay {
+  width: 100%;
+}
+
+.container5:hover .overlay {
+  width: 100%;
+}
+
+.container6:hover .overlay {
+  width: 100%;
+}
+
+.text {
+  white-space: nowrap; 
+  color: #FFFFFF;
+  font-size: 15px;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-shadow: 1px 1px 1px #000000
+}
+
+
+  a.links:link
+	{color: #FFFFFF; 
+	font-weight:bold;
+	text-decoration: none;
+	}
+	
+  a.links:visited
+    {color: #FFFFFF;
+	 text-decoration: none;
+	}
+	
+  a.links:hover
+    {color: #FFFFFF;
+	 text-decoration: underline wavy;
+	}
+  
+  img
+  {border: 2px solid #db537b;
+  }
+  
+</style>
+</head>
+<body>
+
+<div class="header">
+<h1> PERSONAL PORTFOLIO | PORTFOLIO </h1>
+</div>
+
+<p> 
+<!-- nav bar -->
+	 
+<a class= "more" href= "C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\index.html"> Homepage </a>
+
+<a class= "more" href= "C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\secret mssgs.html"> Secret Message !! </a>
+
+</p>
+
+<h1> <a class= "oneforu" href= "https://www.facebook.com/pages/Ramon-Teves-Pastor-Memorial-Dumaguete-Science-High-School/112490412110822" target= "_blank"> Ramon Teves Pastor Memorial Science High School </a> </h1>
+
+<div class="container">
+  <img src="C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\Portfolio Cover Photo Activities\act 1.png" alt="Hello World" class="image">
+  <div class="overlay">
+    <div class="text"> 
+	<a class= "links" href="hello world.html" target="_blank"> HELLO WORLD | ACTIVITY 1 </a> <br>
+	Date: September 22, 2021 <br>
+	Score: 20/20 <br>
+	Submitted to: Sir Bracil Cimafranca <br>
+	Submitted by: Angelina Nicole V. Sindiong
+	</div>
+  </div>
+</div>
+
+<div class="container2">
+  <img src="C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\Portfolio Cover Photo Activities\act 2.png" alt="Fb Linking" class="image">
+  <div class="overlay">
+    <div class="text"> 
+	<a class= "links" href="fb linking.html" target="_blank"> LINKING FACEBOOK ACCOUNT | ACTIVITY 2 </a> <br>
+	Date: September 29, 2021 <br>
+	Score: 18/20 <br>
+	Submitted to: Sir Bracil Cimafranca <br>
+	Submitted by: Angelina Nicole V. Sindiong
+	</div>
+  </div>
+</div>
+
+<div class="container2">
+  <img src="C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\Portfolio Cover Photo Activities\act 3.png" alt="Mini Resume" class="image">
+  <div class="overlay">
+    <div class="text"> 
+	<a class= "links" href="C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\Mini Resume.html" target="_blank"> MINI RESUME | ACTIVITY 3 </a> <br>
+	Date: November 3, 2021 <br>
+	Score: 50/50 <br>
+	Submitted to: Sir Bracil Cimafranca <br>
+	Submitted by: Angelina Nicole V. Sindiong
+	</div>
+  </div>
+</div>
+
+<div class="container3">
+  <img src="C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\Portfolio Cover Photo Activities\act 4.png" alt="Tables Activity" class="image">
+  <div class="overlay">
+    <div class="text"> 
+	<a class= "links" href="C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\tables.html" target="_blank"> HTML TABLES V 2.0 | ACTIVITY 4 </a> <br>
+	Date: November 17, 2021 <br>
+	Score: 49/50 <br>
+	Submitted to: Sir Bracil Cimafranca <br>
+	Submitted by: Angelina Nicole V. Sindiong
+	</div>
+  </div>
+</div>
+
+<div class="container4">
+  <img src="C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\Portfolio Cover Photo Activities\act 5.png" alt="Flag Activity" class="image">
+  <div class="overlay">
+    <div class="text"> 
+	<a class= "links" href="C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\Flag Activity.html" target="_blank"> HTML COLORS - FLAG ACTIVITY | ACTIVITY 5 </a> <br>
+	Date: December 15, 2021 <br>
+	Score: 48/50 <br>
+	Submitted to: Sir Bracil Cimafranca <br>
+	Submitted by: Angelina Nicole V. Sindiong
+	</div>
+  </div>
+</div>
+
+<div class="container4">
+  <img src="C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\Portfolio Cover Photo Activities\act 6.png" alt="Inline & Block Activity" class="image">
+  <div class="overlay">
+    <div class="text"> 
+	<a class= "links" href="C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\Inline and Block Elements.html" target="_blank"> HTML INLINE & BLOCK | ACTIVITY 6 </a> <br>
+	Date: January 5, 2022 <br>
+	Score: 49/50 <br>
+	Submitted to: Sir Bracil Cimafranca <br>
+	Submitted by: Angelina Nicole V. Sindiong
+	</div>
+  </div>
+</div>
+
+<div class="container5">
+  <img src="C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\Portfolio Cover Photo Activities\act 7.png" alt="HTML Iframes and Entities" class="image">
+  <div class="overlay">
+    <div class="text"> 
+	<a class= "links" href="C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\HTML Entities.html" target="_blank"> HTML IFRAMES AND HTML ENTITIES | ACTIVITY 7 </a> <br>
+	Date: January 19, 2022 <br>                                                                                      
+	Score: 49/50 <br>
+	Submitted to: Sir Bracil Cimafranca <br>
+	Submitted by: Angelina Nicole V. Sindiong
+	</div>
+  </div>
+</div>
+
+<div class="container6">
+  <img src="C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\Portfolio Cover Photo Activities\act 8.png" alt="CSS Selectors" class="image">
+  <div class="overlay">
+    <div class="text"> 
+	<a class= "links" href="C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\CSS Selectors.html" target="_blank"> CSS SELECTORS | ACTIVITY 8 </a> <br>
+	Date: March 8, 2022 <br>                                                                                      
+	Score: 50/50 <br>
+	Submitted to: Sir Bracil Cimafranca <br>
+	Submitted by: Angelina Nicole V. Sindiong
+	</div>
+  </div>
+</div>
+
+<div class="container6">
+  <img src="C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\Portfolio Cover Photo Activities\act 9.png" alt="CSS Selectors" class="image">
+  <div class="overlay">
+    <div class="text"> 
+	<a class= "links" href="C:\Users\ReaperRX\Pictures\PERSONAL PORTFOLIO\Dice Activity Css Box Model.html" target="_blank"> CSS SELECTORS | ACTIVITY 9 </a> <br>
+	Date: March 29, 2022 <br>                                                                                      
+	Score: 50/50 <br>
+	Submitted to: Sir Bracil Cimafranca <br>
+	Submitted by: Angelina Nicole V. Sindiong
+	</div>
+  </div>
+</div>
+
+</body>
+</html>

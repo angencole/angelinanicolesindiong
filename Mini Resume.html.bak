@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+<title> Mini Resume Sindiong </title>
+</head>
+
+<body>
+
+<center> <img src= "C:\Users\ReaperRX\Pictures\GRADE 8 - SINDIONG\ICT\PERSONAL PORTFOLIO\Sindiong.png" alt="Angelina Nicole Sindiong" width= "20%">
+<h1> Angelina Nicole V. Sindiong </h1>
+<h3> Student - RTPM DSHS </h3> </center>
+<hr>
+<center> <img src= "C:\Users\ReaperRX\Pictures\GRADE 8 - SINDIONG\ICT\PERSONAL PORTFOLIO\mini resume photos\facebook.png" alt= "Facebook icon" width= "03%">
+<a href="https://www.facebook.com/ange.ncle" target="_blank"> Facebook Profile </a>
+<img src= "C:\Users\ReaperRX\Pictures\GRADE 8 - SINDIONG\ICT\PERSONAL PORTFOLIO\mini resume photos\gmail.png" alt= "Gmail icon" width= "03%"> sindiongangelina@gmail.com
+<img src= "C:\Users\ReaperRX\Pictures\GRADE 8 - SINDIONG\ICT\PERSONAL PORTFOLIO\mini resume photos\call.png" alt= "Angelina Nicole Sindiong" width= "03%"> 09676934510 </center>
+
+<h4> PERSONAL INFORMATION </h4>
+<details close>
+<summary> <b> Summary </b> </summary>
+<p> A straight merit card awardee since kindergarten to present time. Has been a Secretary for the PG for SY 2019 - 2020 in Catherina Cittadini School. Can both stay up late to finish
+assignments or sleep early, forget about them and cram the next day. Will face on any challenges with the will to overcome it. Willing to help those who are in need but
+will ignore the person in an instant if being taken advantage of. Likes playing the guitar, video editing and sometimes singing.
+Striving for high grades and trying to be a better person as time passes. </p>
+</details>
+<hr>
+
+<p> <b> Name: </b> Angelina Nicole V. Sindiong </p>
+<p> <b> School: </b> RTPM - Dumaguete Science High School </p>
+<p> <b> Grade Level & Section: </b> Grade 8 - Newton </p>
+<p> <b> Subject: </b> ICT 8 - HTML & CSS </p>
+<p> <b> Career Objectives: </b> <em> I want to become a doctor in the future </em> </p>
+<hr>
+
+<h4> EDUCATION </h4>
+<ul>
+<li> <p> <b> Elementary: </b> Catherina Cittadini School | <em> 2013 - 2020 </em> </P> </li>
+<li> <p> <b> Secondary: </b> Ramon Teves Pastor Memorial - Science High School | <em> 2020 - Present </em> </P> </li>
+</ul>
+<hr>
+
+<h4> SKILLS </h4>
+<style>
+table, th, td {border: 1px solid black; border-collapse:collapse;}
+</style>
+<table style= "width: 100%">
+<tr>
+<th> Skills </th>
+<th> Percentage </th>
+<th> Progress </th>
+</tr>
+
+<tr style= "text-align:center;">
+<td> Video Editing </td>
+<td> 60% </td>
+<td> <progress value= "60" max= "100"> </progress> </td>
+</tr>
+
+<tr style= "text-align:center;">
+<td> Playing the guitar </td>
+<td> 70% </td>
+<td> <progress value= "70" max= "100"> </progress> </td>
+</tr>
+
+<tr style= "text-align:center;">
+<td> Managing time </td>
+<td> 65% </td>
+<td> <progress value= "65" max= "100"> </progress> </td>
+</tr>
+</table>
+
+</body>
+</html>
